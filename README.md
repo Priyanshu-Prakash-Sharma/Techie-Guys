@@ -66,24 +66,3 @@ Once the app is running, you can interact with the following:
 * User authentication to store study plans for different users.
 * A more sophisticated AI algorithm to generate study plans based on performance.
 * Improved UI with more features such as charts and progress tracking.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests with improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-**Key Improvements:**
-
-* **Clearer Structure:** Uses headings and lists for better organization.
-* **Markdown Formatting:** Uses Markdown syntax for improved readability on GitHub.
-* **Specific Instructions:** Provides step-by-step instructions for setup and running the application.
-* **Hyperlinks:** Includes links to download JDK and JavaFX.
-* **Dependency Example:** Provides a clear example of the Maven dependency.
-* **Placeholder for Display Details:**  Highlights the need to specify *how* study plans are displayed in the UI.  This is crucial information for someone trying to use the app.
-* **Standard README Format:** Follows common conventions for GitHub READMEs.
-
-**Crucially:**  The original text said the study plans are displayed in the console.  If they are displayed in the UI, you *must* correct that in the README.  The README must accurately reflect how the application works.  If the UI displays them, describe where in the UI they are displayed (e.g., in a table, a list, etc.).
