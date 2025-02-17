@@ -1,4 +1,3 @@
-```markdown
 # Study Planner App
 
 A simple JavaFX-based application designed to help students organize their study schedule efficiently. The app analyzes learning habits, syllabus progress, and exam dates to generate a dynamic study plan. It also adapts based on the user's performance in mock tests. The app fetches mock study plans from a service and displays them in an interactive graphical interface.
